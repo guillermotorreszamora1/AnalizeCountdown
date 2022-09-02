@@ -1,0 +1,55 @@
+Call To stations,L-46:40
+Fill water tank sound suppresion,L-46-41
+LOX/LH2 preparations,L-46-37
+Late Orion power up,L-42-41:30
+ICPS power up,L-38:30-35:30
+Core stage power up,L-34-33:20
+RS-25 final preparations, L-36:20-31
+COPV pressurization,L-31-22
+Orion Flight batteries 100%, L-30-26
+Core Flight batteries 100%, L-27-21
+IPCS power up for launch,L-18:30-15:30
+LC-39B evacutation,L-12-10
+Ground launch Sequencer Activation,L-11:15-9:15
+Air-GN2 Changeover for cavity inerting,L-10:45
+Countdown hold,L-9:40-7:10
+Weather and tanking briefing,L-9:30-8:50
+Go/No-Go tanking,L-8:40
+Core LO2 transfer line chilldown,L-8:15-8
+Core Stage chilldown,L-8-7:20
+Core LO2 slow fill,L-7:20-7:05
+Core LH2 chillldown,L-7:15-7:05
+Core L02 fast fill,L-7:05-4:15
+Core LH2 slow fill,L-7:05-6:15
+Core LH2 fast fill,L-6:15-05:05
+Core Stage LH2 in replenish,L-5
+ICPS LH2 chilldown,L-4:45-4:30
+ICPS LH2 fast fill,L-4:30-3:30
+Orion com activated,L-4:20-3:45
+Core LO2 topping,L-4:15-3:55
+Core LO2 replenish,L-3:55
+ICPS LO2 MPS chilldown,L-3:55-3:45
+ICPS LO2 fast fill,L-3:45-2:55
+ICPS LH2 validation and leak test,L-3:30-3:15
+ICPS LH2 tank topping,L-3:15-2:55
+ICPS LO2 topping,L-2:30-2:10
+ICPS LO2 replenish,L-2:10
+Nasa Test Director briefing,L-00:50
+Built in hold,L-00:40
+Final Go/No-Go poll,L-00:15
+GLS initiates terminal count,T-00:10
+Orion ascent pyros are armed,T-00:06
+Orion set to internal power,T-00:06
+Core Stage LH2 terminate replenish,T-00:05:57
+Core Stage auxiliary power unit starts,T-00:04:00
+Core Stage LO2 terminate replenish,T-00:03:30
+ICPS internal battery power,T-00:01:56
+Core Stage internal power,T-00:01:30
+ICPS countdown mode,T-00:01:20,
+ICPS LH2 terminate replenish,T-00:00:50
+GLS send Go for automatic launch sequencer,T-00:00:33
+Core stage flight computer automatic launch sequencer,T-00:00:30
+Hydrogen burn off igniters initiated,T-00:00:12
+GLS send command for core stage engine start,T-00:00:10
+RS-25 startup,T-00:00:06
+"Booster ingnition, umbilical separation and liftoff",T-0
